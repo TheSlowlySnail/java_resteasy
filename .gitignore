@@ -3,4 +3,8 @@
 *.jar
 lib
 *.class
-
+*.txt
+.project
+*.swp
+target
+.settings
