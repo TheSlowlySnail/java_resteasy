@@ -1,0 +1,6 @@
+.classpath
+*.war
+*.jar
+lib
+*.class
+
